@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: MozillaTN Club Name
+title: MozillaTN bitzilla
 
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
 event_label: Events
@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
   MozillaTN ClubName is club under MozillaTN community actively contributing to various contribution of mozilla.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://mozillatn.github.io/clubs
+url: https://mozillatn.github.io/bitzilla
 
 domain_name: 'http://mozillatn.github.io'
 
